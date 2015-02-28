@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+	<string id="30000">Favourites</string>
+	<string id="30001">Yes</string>
+	<string id="30002">No</string>
+	<string id="30003">Yes, Ask next time</string>
+	<string id="30004">No, Ask next time</string>
+	
+	<string id="30010">Favourites text color</string>
+	<string id="30011">Categories text color</string>
+	<string id="30012">Channels text color</string>
+	<string id="30013">Now playing programs text color</string>
+	<string id="30014">Next playing programs text color</string>
+	<string id="30015">Times text color</string>
+	
+	<string id="30020">Show advanced settings</string>
+	<string id="30021">Move up</string>
+	<string id="30022">Move down</string>
+	<string id="30023">Move to</string>
+	<string id="30024">Select a new location</string>
+	<string id="30025">Select a file</string>
+	<string id="30026">Enter file name</string>
+	
+	<string id="30100">IsraeLIVE Settings</string>
+	<string id="30101">Remote Settings URL</string>
+	<string id="30110">Filmon's stream protocol</string>
+	<string id="30104">HLS</string>
+	<string id="30105">RTMP</string>
+	<string id="30106">Use TV-Guide?</string>
+	<string id="30107">Download TV-Guide now - from server</string>
+	<string id="30108">Create TV-Guide now (local scan)</string>
+	<string id="30111">Update Channels Lists now</string>
+	<string id="30112">Force remote-settings default URL</string>
+	
+	<string id="30200">IsraeLIVE addon updated to </string>
+	<string id="30201">Please restart XBMC/Kodi</string>
+	<string id="30202">No channels in your favourites</string>
+	<string id="30203">Add one by right clicking on any channel</string>
+	<string id="30204">No TV-Guide for</string>
+	<string id="30205">TV-Guide</string>
+	<string id="30206">Add to IsraeLIVE favourites</string>
+	<string id="30207">Remove from IsraeLIVE favourites</string>
+	<string id="30208">Channels to add to favourites</string>
+	<string id="30209">Channels to remove from favourites</string>
+	<string id="30210">Add channels to IsraeLIVE favourites</string>
+	<string id="30211">Remove channels from IsraeLIVE favourites</string>
+	<string id="30212">Add all channels in group to IsraeLIVE favourites</string>
+	<string id="30213">Empty IsraeLIVE favourites</string>
+	<string id="30214">Export IsraeLIVE favourites</string>
+	<string id="30215">Import IsraeLIVE favourites</string>
+	<string id="30216">The current favourites list will be replace by the new list.</string>
+	<string id="30217">The new list contains {0} channels.</string>
+	<string id="30218">Replace favourites?</string>
+	<string id="30219">Select import/export folder</string>
+	
+	<string id="30300">Live TV</string>
+	<string id="30301">Enable Live TV</string>
+	<string id="30302">Make IPTV channels list and TV-Guide</string>
+	<string id="30303">Download channels logos</string>
+	<string id="30304">Update IPTVSimple settings</string>
+	<string id="30305">LiveStreamer Port</string>
+	<string id="30306">Auto-update IPTVSimple?</string>
+	<string id="30307">Empty channels logos folder</string>
+	<string id="30308">Refresh ALL Live TV required resources</string>
+	
+	<string id="30400">Appearance</string>
+	
+	<string id="30500">Groups</string>
+	<string id="30501">Filter groups</string>
+	<string id="30502">Add groups</string>
+	<string id="30503">Select groups (scrolling list)</string>
+	<string id="30504">Choose groups for LiveTV</string>
+	<string id="30505">Favourites</string>
+	<string id="30506">All</string>
+	<string id="30507">Selected</string>
+	<string id="30508">Remove groups</string>
+</strings>
